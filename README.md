@@ -19,9 +19,7 @@ With the above metrices, a PyBer summary dataframe was created.
 
 ![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
 
-Useing the provided code snippet to remove the index name ("type") from the PyBer summary DataFrame,a formatted PyBer summary dataframe was created.
-
-![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
+Using the provided code snippet to remove the index name ("type") from the PyBer summary DataFrame,a formatted PyBer summary dataframe was created.
 
 Then,we create a new DataFrame with multiple indices using the groupby() function on the "type" and "date" columns of the pyber_data_df DataFrame, then apply the sum() method on the "fare" column to show the total fare amount for each date.The dataframe as follows:
 
@@ -33,4 +31,11 @@ We have to set the "date" index to datetime datatype and resampling the datafram
 
 ![](https://github.com/akthersr/PyBer_Analysis/blob/main/resampled.png)
 
+## Results
+### Summary DataFrame
 
+According to the PyBer summary dataframe, between January and May in 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural areas. Also there were 2,405 drivers in urban cities, 490 drivers in suburban cities and 78 drivers in rural areas.
+
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
+
+The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.
