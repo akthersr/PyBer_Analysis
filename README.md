@@ -25,8 +25,10 @@ Useing the provided code snippet to remove the index name ("type") from the PyBe
 
 Then,we create a new DataFrame with multiple indices using the groupby() function on the "type" and "date" columns of the pyber_data_df DataFrame, then apply the sum() method on the "fare" column to show the total fare amount for each date.
 
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/nan%20.png)
+
 Using loc on the dates, a new dataframe was created for dates within '2019-01-01':'2019-04-28'.
 
 We have to set the "date" index to datetime datatype and resampling the dataframe by week, a dataframe on weekly total fares by city type was created and visualized using a line graph.
 
-![](https://github.com/akthersr/PyBer_Analysis/blob/main/nan%20.png)
+
