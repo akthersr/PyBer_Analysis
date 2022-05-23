@@ -34,12 +34,14 @@ We have to set the "date" index to datetime datatype and resampling the datafram
 ## Results
 ### Summary DataFrame
 
-According to the PyBer summary dataframe, between January and May in 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural areas. Also there were 2,405 drivers in urban cities, 490 drivers in suburban cities and 78 drivers in rural areas.
+By the PyBer summary dataframe, between January and May in 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural areas. Also there were 2,405 drivers in urban cities, 490 drivers in suburban cities and 78 drivers in rural areas.
 
 ![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
 
-The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.The average fare per driver for suburban cities and rural areas are around 2.5 times and 3.5 times higher than urban cities, respectively.
+The Urban city type had more total drivers than total rides, which had a impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride which is $17 and earned significantly less than the Rural drivers.The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities and Suburban cities' average fare per driver is about $40.The average fare per driver for suburban cities and rural areas are around 2.5 times and 3.5 times higher than urban cities, respectively.
 
 ### Total Fare by City Type
+
+The below multiple-line chart "Total Fare by City Type" shows the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019.
 
 
