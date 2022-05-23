@@ -44,4 +44,6 @@ The Urban city type had more total drivers than total rides, which had a impact 
 
 The below multiple-line chart "Total Fare by City Type" shows the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019.
 
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+
 
