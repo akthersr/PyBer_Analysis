@@ -38,4 +38,8 @@ According to the PyBer summary dataframe, between January and May in 2019, there
 
 ![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
 
-The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.
+The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.The average fare per driver for suburban cities and rural areas are around 2.5 times and 3.5 times higher than urban cities, respectively.
+
+### Total Fare by City Type
+
+
