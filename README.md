@@ -12,8 +12,13 @@ The purpose of this analysis is to perform an exploratory analysis and creating 
 ## Analysis
 The main steps are as follows:
 1.With Pandas and Matplotlib library we can read the two csv files(city_data.csv,ride_data.csv).After merging the two data set,we count total rides,total drivers,total amount of fares,average fare per ride and average fare per driver.
-![]()
+
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/total.png)
+
 With the above metrices, a PyBer summary dataframe was created.
-![]()
+
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
+
 Useing the provided code snippet to remove the index name ("type") from the PyBer summary DataFrame,a formatted PyBer summary dataframe was created.
-![]()
+
+![](https://github.com/akthersr/PyBer_Analysis/blob/main/data%20summary.png)
